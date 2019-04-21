@@ -40,7 +40,7 @@ def main():
     pyplot.xlabel("Duration of open state (s)")
     pyplot.ylabel("Occurunces")
 
-    plt.show()
+    pyplot.show()
 
 
 def toggle(state):
